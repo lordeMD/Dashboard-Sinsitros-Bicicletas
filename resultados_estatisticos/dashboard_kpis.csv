@@ -1,0 +1,4 @@
+﻿municipio,total_segmentos,total_sinistros,media_sinistros,mediana_sinistros,perc_zero,modelo_escolhido
+Santos,13413,663,0.049429657794676805,0.0,96.1157086408708,Binomial Negativa
+São Vicente,12678,464,0.036598832623442185,0.0,97.08944628490298,Binomial Negativa
+Praia Grande,17759,494,0.02781688158117011,0.0,97.81519229686356,Binomial Negativa
